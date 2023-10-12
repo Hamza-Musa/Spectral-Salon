@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/JWYSOpL.jpg">
 <br>
 <p>Spectral Salon is a website that offers a wide range of beauty and grooming services for men and women. Services offered may include hair cutting, coloring, styling, nail care, waxing, facials, and more.</p>
-<p>Link to website: <a href="https://www.tyleriscoding.com/salon/index.html">Spectral Salon</a></p>
+<p>Link to website: <a href="https://hamza-musa.github.io/Spectral-Salon/">Spectral Salon</a></p>
 <h2>How It's Made</h2>
 <p><strong>Tech Used:</strong> HTML5, CSS3, JavaScript, JQuery, Responsive Tools</p>
 <br>
