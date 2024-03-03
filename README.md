@@ -41,7 +41,7 @@ In this project, I covered the four properties of the box model: height and widt
 
 # Spectral Salon: <a href="https://spectralsalon.netlify.app/" target="_blank">Visit Here</a>
 <a href="https://shawncharles.com/travelara" target="_blank">
-<img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/blob/main/images/gif1.gif?raw=true" width="100%" alt="Travelara.org"/>
+<img src="" width="100%" alt="Travelara.org"/>
 </a>
 
 Spectral Salon
