@@ -9,7 +9,7 @@
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS
+**Tech used:** HTML, CSS, SASS, JS
 
 In this project, I learned about an important limitation of the default box model: box dimensions are affected by border thickness and padding. In the default box model, box dimensions are affected by border thickness and padding. The box-sizing property controls the box model used by the browser. The default value of the box-sizing property is the content box. The value for the new box model is border-box. The border-box model is not affected by border thickness or padding.
 
