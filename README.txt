@@ -1,43 +1,68 @@
-Spectral by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Spectral Salon: <a href="https://spectralsalon.netlify.app/" target="_blank">Visit Here</a>
+<a href="https://shawncharles.com/travelara" target="_blank">
+<img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/blob/main/images/gif1.gif?raw=true" width="100%" alt="Travelara.org"/>
+</a>
+
+Spectral Salon
 
 
-A big, modern, blocky affair with a mobile-style menu, fully responsive styling,
-and an assortment of pre-styled elements. So, pretty much what you were expecting
--- except, of course, for how it's put together, specifically:
-
-- It's built with components from my Responsive Tools project.
-
-- It uses flexbox, which eliminates all kinds of terrible hacks and clunky layout
-  stopgaps (like CSS grid systems).
-
-- It uses Sass* a lot more intelligently, thanks in part to several new mixins
-  and functions I've been working on (as well as a few by @HugoGiraudel).
-
-  (* = still entirely optional if you prefer vanilla CSS :)
-
-- A ton of other stuff.
-
-In short, Spectral's the culmination of several new things I'm working on/trying out,
-so please, let me know what you think :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
+## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3)![SASS BADGE](https://img.shields.io/static/v1?label=|&message=SASS&color=2b625f&style=plastic&logo=sass)![BOOTSTRAP BADGE](https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=316c5e&style=plastic&logo=bootstrap)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)![EXPRESS BADGE](https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express)![MONGODB BADGE](https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb)
 
 
-Credits:
+## Optimizations
+One of the first thing I would optimize is the UX of how someone schedules a vacation and would love to add chatgpt plugins to be able to populate a price page for hotels and flights. I would also work on the scalability of the API used. Lastly I would make it so that a person can swipe with friends in real time. 
 
-	Demo Images:
-		Unsplash (unsplash.com)
+## Lessons Learned
 
-	Icons:
-		Font Awesome (fontawesome.io)
+Utilized callback functions in the server to try and build a modular and scalable backend. Through this I learned , how to effectively simplify backend routes into independent functions
+
+## Demo Login
+
+
+Demo Email: demo@demo.com
+
+Demo password: demo
+
+
+## Installation
+
+1. Clone repo
+2. run `npm install`
+3. update DATABASE_URL in config/database
+
+## Usage
+
+1. run `node server.js`
+2. Navigate to `localhost:8080`
+
+## More Projects
+
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="33.3%"  style="align:center;" valign="top">
+<a target="_blank" href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug">Rigley 2: Flappy Bug</a>
+        <br />
+      <a target="_blank" href="https://github.com/CharlesCreativeContent/Rigley2-FlappyBug">
+            <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif2.gif" width="100%"  alt="Rigley 2: Flappy Bug"/>
+        </a>
+    </td>
+    <td width="33.3%" valign="top">
+<a target="_blank" href="https://github.com/CharlesCreativeContent/matching-card-game"> Matching Card Game</a>
+      <br />
+        <a target="_blank" href="https://github.com/CharlesCreativeContent/matching-card-game">
+          <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif3.gif" width="100%" alt="Matching Card Game"/>
+        </a>
+    </td>
+    <td width="33.3%" valign="top">
+<a target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio2021">Portfolio</a>
+        <br />
+        <a target="_blank" href="https://github.com/CharlesCreativeContent/Portfolio2021/">
+          <img src="https://github.com/CharlesCreativeContent/CharlesCreativeContent/raw/main/images/gif4.gif" width="100%" alt="Portfolio"/>
+        </a>
+    </td>
+  </tr>
+</table>
 
 	Other:
 		jQuery (jquery.com)
