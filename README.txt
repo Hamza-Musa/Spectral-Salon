@@ -16,24 +16,7 @@ One of the first thing I would optimize is the UX of how someone schedules a vac
 
 Utilized callback functions in the server to try and build a modular and scalable backend. Through this I learned , how to effectively simplify backend routes into independent functions
 
-## Demo Login
 
-
-Demo Email: demo@demo.com
-
-Demo password: demo
-
-
-## Installation
-
-1. Clone repo
-2. run `npm install`
-3. update DATABASE_URL in config/database
-
-## Usage
-
-1. run `node server.js`
-2. Navigate to `localhost:8080`
 
 ## More Projects
 
